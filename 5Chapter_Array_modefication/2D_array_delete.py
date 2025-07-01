@@ -9,3 +9,5 @@ newAr = np.delete(arr2D, 2, axis=0)
 print(newAr)
 
 
+
+

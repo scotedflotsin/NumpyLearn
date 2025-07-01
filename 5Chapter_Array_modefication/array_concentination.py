@@ -9,4 +9,5 @@ arr2 = np.array([34,45,667,67,78])
 
 new_array = np.concatenate((arr1, arr2))
 
+
 print(new_array)

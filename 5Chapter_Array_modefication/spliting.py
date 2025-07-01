@@ -14,6 +14,7 @@ arr2 = np.array([23,45,56,78,89])
 
 
 
+
 newArr = np.split(arr1, 2)
 newArr1 = np.hsplit(arr1, 3)
 

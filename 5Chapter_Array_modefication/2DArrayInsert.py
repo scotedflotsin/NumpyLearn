@@ -9,6 +9,7 @@ arr = np.array([[23,45],[34,56]])
 
 
 
+
 new_arr_2d = np.insert(arr, 2, [2,5])   #
 
 
